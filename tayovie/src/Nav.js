@@ -24,7 +24,7 @@ function Nav() {
         <img className="nav__logo" src={logo} alt="logo-tayovie" />
         <img
           className="nav__avatar"
-          src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Netflix-avatar.png"
+          src="https://i.pinimg.com/originals/7c/c7/a6/7cc7a630624d20f7797cb4c8e93c09c1.png"
           alt="logo-tayovie"
         />
       </div>
@@ -33,3 +33,6 @@ function Nav() {
 }
 
 export default Nav;
+
+ // netflix avatar
+ /* https://upload.wikimedia.org/wikipedia/commons/0/0b/Netflix-avatar.png */ 
