@@ -1,8 +1,8 @@
 const firebaseConfig = {
-    apiKey: "AIzaSyCSarqOQV1xNaaS7Nm2KXmi6lslCunbM30",
-    authDomain: "tayovie.firebaseapp.com",
-    projectId: "tayovie",
-    storageBucket: "tayovie.appspot.com",
-    messagingSenderId: "986201269956",
-    appId: "1:986201269956:web:6edada2aabd0f436204b91"
-  };
+  apiKey: "AIzaSyC15E85-sHKdeajqJdabbVmHrYjGsN-KAE",
+  authDomain: "tayovie-3c201.firebaseapp.com",
+  projectId: "tayovie-3c201",
+  storageBucket: "tayovie-3c201.appspot.com",
+  messagingSenderId: "978906796803",
+  appId: "1:978906796803:web:0e3c2584a1196f52730f36"
+};
